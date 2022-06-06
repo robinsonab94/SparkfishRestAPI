@@ -15,13 +15,13 @@ Answer as many of these as you like and post them in a gist to share your respon
 	Answer: I have not.
 5. Have you ever had a chance to use TDD? Have you found it to be helpful? If so, when does it work best for you?
 		Answer: I have not, but I am familiar with coming up with different scenarios to test and to ensure the software runs as expected. 
-6. Have you been given the opportunity to use tools like ReSharper? What did you like about it? I
+6. Have you been given the opportunity to use tools like ReSharper? What did you like about it? 
 		Answer: I have not. 
 7. Do you prefer working directly with the business people? Or do you find it's best to have a go-between?
 		Answer: I do not have a preference. I am comfortable communicating with people outside my organization. In most of my current projects, I communicate directly with clients that use our software for planning and status updates. It also isn’t common for my boss to sit in on meetings when we discuss bigger projects so that he can determine if there’s anything he needs to go over with me. 
 8. Have you ever used web.config transformations? If not, do you know what they are good for?
 9. Can you tell me anything about `slots` in terms of Azure? If not, based on what you just googled, how would you use them in your next Azure project?
-		Answer: Based on what I googled, it would be beneficial when providing updates to the application in the production from test. It could be used to eliminate downtime that comes with updating apps in production. 
+		Answer: Based on what I googled, it would be beneficial when providing updates to the application in the production envionment from the test environment. It could be used to eliminate downtime that comes with updating apps in production. 
 10. Can you explain what DevOps and/or continuous integration is, and some of the benefits?
 11. Are you technology agnostic or are you pretty strict when it comes to things like Mac vs Windows, or AWS vs Azure?
 		Answer: I am technology agnostic however, I have most of my experience with Windows, but also have a Macbook and program occasionally on that.
